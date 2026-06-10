@@ -63,8 +63,8 @@
   alt="postgresql" width="40" height="40"/></a></td>
       <td><a href="https://www.sqlite.org/" target="_blank"><img 
   src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a></td>
-  <td><a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/maste
-  r/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="40" height="40"/></a></td>
+  <td><a href="https://aws.amazon.com" target="_blank"><img 
+  src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/></a></td>
       <td><a href="https://www.docker.com/" target="_blank"><img 
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" 
   width="40" height="40"/></a></td>
