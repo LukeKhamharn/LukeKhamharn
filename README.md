@@ -1,5 +1,5 @@
   <h1 align="center">Hi, I'm Luke Khamharn</h1>
-  <h3 align="center">A Software Engineer</h3>
+  <h3 align="center">A Software Engineer from San Francisco</h3>
   <h3 align="left">Connect with me:</h3>
   <p align="left">
   <a href="https://www.linkedin.com/in/lukekhamharn" target="blank"><img align="center" 
